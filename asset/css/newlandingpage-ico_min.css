@@ -1,0 +1,388 @@
+@font-face {
+	font-family: 'icomoon';
+	src: url('https://in.goibibo.com/static/extranet/fonts/icomoon.eot?-y4lvg');
+	src: url('https://in.goibibo.com/static/extranet/fonts/icomoon.eot?#iefix-y4lvg') format('embedded-opentype'), url('https://in.goibibo.com/static/extranet/fonts/icomoon.ttf?-y4lvg') format('truetype'), url('https://in.goibibo.com/static/extranet/fonts/icomoon.woff?-y4lvg') format('woff'), url('https://in.goibibo.com/static/extranet/fonts/icomoon.svg?-y4lvg#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal
+}
+[class^="icon-"], [class*=" icon-"] {
+font-family:'icomoon';
+speak:none;
+font-style:normal;
+font-weight:normal;
+font-variant:normal;
+text-transform:none;
+line-height:1;
+font-size:36px;
+-webkit-font-smoothing:antialiased;
+-moz-osx-font-smoothing:grayscale
+}
+.icon-activity-icn:before {
+	content: "\e600"
+}
+.icon-AFN:before {
+	content: "\e601"
+}
+.icon-ALL:before {
+	content: "\e602"
+}
+.icon-ANG:before {
+	content: "\e603"
+}
+.icon-ARS:before {
+	content: "\e604"
+}
+.icon-AUD:before {
+	content: "\e605"
+}
+.icon-awards-icn:before {
+	content: "\e606"
+}
+.icon-AWG:before {
+	content: "\e607"
+}
+.icon-AZN:before {
+	content: "\e608"
+}
+.icon-BAM:before {
+	content: "\e609"
+}
+.icon-bank-icn .path1:before {
+	content: "\e60a";
+	color: #2c3e50
+}
+.icon-bank-icn .path2:before {
+	content: "\e60b";
+	margin-left: -1em;
+	color: #fff
+}
+.icon-BBD:before {
+	content: "\e60c"
+}
+.icon-BGN:before {
+	content: "\e60d"
+}
+.icon-BMD:before {
+	content: "\e60e"
+}
+.icon-BOB:before {
+	content: "\e60f"
+}
+.icon-BRL:before {
+	content: "\e610"
+}
+.icon-BSD:before {
+	content: "\e611"
+}
+.icon-businessman-icn:before {
+	content: "\e612"
+}
+.icon-BWP:before {
+	content: "\e613"
+}
+.icon-BYR:before {
+	content: "\e614"
+}
+.icon-BZD:before {
+	content: "\e615"
+}
+.icon-CAD:before {
+	content: "\e616"
+}
+.icon-CHF:before {
+	content: "\e617"
+}
+.icon-cloud-icn:before {
+	content: "\e618"
+}
+.icon-CLP:before {
+	content: "\e619"
+}
+.icon-computers-icn:before {
+	content: "\e61a"
+}
+.icon-COP:before {
+	content: "\e61b"
+}
+.icon-CRC:before {
+	content: "\e61c"
+}
+.icon-crown-icn:before {
+	content: "\e61d"
+}
+.icon-CUP:before {
+	content: "\e61e"
+}
+.icon-CZK:before {
+	content: "\e61f"
+}
+.icon-DKK:before {
+	content: "\e620"
+}
+.icon-DOP:before {
+	content: "\e621"
+}
+.icon-EEK:before {
+	content: "\e622"
+}
+.icon-EGP:before {
+	content: "\e623"
+}
+.icon-EUR:before {
+	content: "\e624"
+}
+.icon-finances-icn:before {
+	content: "\e625"
+}
+.icon-FJD:before {
+	content: "\e626"
+}
+.icon-FKP:before {
+	content: "\e627"
+}
+.icon-GBP:before {
+	content: "\e628"
+}
+.icon-GGP:before {
+	content: "\e629"
+}
+.icon-GHC:before {
+	content: "\e62a"
+}
+.icon-GIP:before {
+	content: "\e62b"
+}
+.icon-GTQ:before {
+	content: "\e62c"
+}
+.icon-GYD:before {
+	content: "\e62d"
+}
+.icon-HKD:before {
+	content: "\e62e"
+}
+.icon-HRK:before {
+	content: "\e62f"
+}
+.icon-HUF:before {
+	content: "\e630"
+}
+.icon-IDR:before {
+	content: "\e631"
+}
+.icon-ILS:before {
+	content: "\e632"
+}
+.icon-IMP:before {
+	content: "\e633"
+}
+.icon-INR:before {
+	content: "\e634"
+}
+.icon-IRR:before {
+	content: "\e635"
+}
+.icon-ISK:before {
+	content: "\e636"
+}
+.icon-JEP:before {
+	content: "\e637"
+}
+.icon-JMD:before {
+	content: "\e638"
+}
+.icon-JPY:before {
+	content: "\e639"
+}
+.icon-KGS:before {
+	content: "\e63a"
+}
+.icon-KHR:before {
+	content: "\e63b"
+}
+.icon-KPW:before {
+	content: "\e63c"
+}
+.icon-KRW:before {
+	content: "\e63d"
+}
+.icon-KYD:before {
+	content: "\e63e"
+}
+.icon-KZT:before {
+	content: "\e63f"
+}
+.icon-LAK:before {
+	content: "\e640"
+}
+.icon-LBP:before {
+	content: "\e641"
+}
+.icon-LKR:before {
+	content: "\e642"
+}
+.icon-LRD:before {
+	content: "\e643"
+}
+.icon-LTL:before {
+	content: "\e644"
+}
+.icon-LVL:before {
+	content: "\e645"
+}
+.icon-MKD:before {
+	content: "\e646"
+}
+.icon-MNT:before {
+	content: "\e647"
+}
+.icon-MUR:before {
+	content: "\e648"
+}
+.icon-MXN:before {
+	content: "\e649"
+}
+.icon-MYR:before {
+	content: "\e64a"
+}
+.icon-MZN:before {
+	content: "\e64b"
+}
+.icon-NAD:before {
+	content: "\e64c"
+}
+.icon-NGN:before {
+	content: "\e64d"
+}
+.icon-NIO:before {
+	content: "\e64e"
+}
+.icon-NOK:before {
+	content: "\e64f"
+}
+.icon-notifications-icn:before {
+	content: "\e650"
+}
+.icon-NPR:before {
+	content: "\e651"
+}
+.icon-NZD:before {
+	content: "\e652"
+}
+.icon-OMR:before {
+	content: "\e653"
+}
+.icon-PAB:before {
+	content: "\e654"
+}
+.icon-PEN:before {
+	content: "\e655"
+}
+.icon-PHP:before {
+	content: "\e656"
+}
+.icon-PKR:before {
+	content: "\e657"
+}
+.icon-PLN:before {
+	content: "\e658"
+}
+.icon-PYG:before {
+	content: "\e659"
+}
+.icon-QAR:before {
+	content: "\e65a"
+}
+.icon-report-icn:before {
+	content: "\e65b"
+}
+.icon-RON:before {
+	content: "\e65c"
+}
+.icon-RSD:before {
+	content: "\e65d"
+}
+.icon-RUB:before {
+	content: "\e65e"
+}
+.icon-sale-icn:before {
+	content: "\e65f"
+}
+.icon-SAR:before {
+	content: "\e660"
+}
+.icon-SBD:before {
+	content: "\e661"
+}
+.icon-SCR:before {
+	content: "\e662"
+}
+.icon-search-icn:before {
+	content: "\e663"
+}
+.icon-SEK:before {
+	content: "\e664"
+}
+.icon-SGD:before {
+	content: "\e665"
+}
+.icon-SHP:before {
+	content: "\e666"
+}
+.icon-SOS:before {
+	content: "\e667"
+}
+.icon-SRD:before {
+	content: "\e668"
+}
+.icon-SVC:before {
+	content: "\e669"
+}
+.icon-SYP:before {
+	content: "\e66a"
+}
+.icon-THB:before {
+	content: "\e66b"
+}
+.icon-TRL:before {
+	content: "\e66c"
+}
+.icon-TRY:before {
+	content: "\e66d"
+}
+.icon-TTD:before {
+	content: "\e66e"
+}
+.icon-TWD:before {
+	content: "\e66f"
+}
+.icon-UAH:before {
+	content: "\e670"
+}
+.icon-USD:before {
+	content: "\e671"
+}
+.icon-UYU:before {
+	content: "\e672"
+}
+.icon-UZS:before {
+	content: "\e673"
+}
+.icon-VEF:before {
+	content: "\e674"
+}
+.icon-VND:before {
+	content: "\e675"
+}
+.icon-XCD:before {
+	content: "\e676"
+}
+.icon-YER:before {
+	content: "\e677"
+}
+.icon-ZAR:before {
+	content: "\e678"
+}
+.icon-ZWD:before {
+	content: "\e679"
+}
