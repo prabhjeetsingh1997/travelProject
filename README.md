@@ -43,28 +43,6 @@ Open browser; goto [localhost/cias](http://localhost/cias) and press enter:
 
 The login screen will appear.
 
-To login, I am going to provide the user-email ids and password below.
-
-**System Administrator Account :**
-
-email : admin@example.com
-
-password : codeinsect
-
-**Manager Account :**
-
-email :  manager@example.com
-
-password : codeinsect
-
-**Employee Account :**
-
-email : employee@example.com
-
-password : codeinsect
-
-Once you logged in with System Administrator account, you can create user or edit previous user if you want.
-
 **Youtube Links :**
 
 [CodeIgniter Admin Panel Demo](https://youtu.be/RFRXUd8LHUM) : This video contain the demo of CodeIgniter Admin Panel.
